@@ -25,7 +25,7 @@ env:
   REPO_URL: https://github.com/LiBwrt/openwrt-6.x
   REPO_BRANCH: kernel-6.12
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: config/FULL/.config
+  CONFIG_FILE: config/.config
   DIY_P1_SH: config/FULL/diy-part1.sh
   DIY_P2_SH: config/FULL/diy-part2.sh
   SSH_ACTIONS: false
