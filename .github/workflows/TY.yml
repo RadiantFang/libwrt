@@ -22,8 +22,8 @@ on:
 #    - cron: 0 16 * * *
 
 env:
-  REPO_URL: https://github.com/LiBwrt/openwrt-6.x
-  REPO_BRANCH: kernel-6.12
+  REPO_URL: https://github.com/VIKINGYFY/immortalwrt
+  REPO_BRANCH: main
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: config/.config
   DIY_P1_SH: config/FULL/diy-part1.sh
